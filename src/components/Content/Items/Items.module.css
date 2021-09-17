@@ -1,0 +1,18 @@
+.item{
+    width: 300px;
+}
+
+.img{
+    width: 100%;
+}
+
+.info{
+    padding: 5px;
+    background: darkgray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link{
+
+}
